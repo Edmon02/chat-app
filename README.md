@@ -83,7 +83,7 @@ We welcome contributions from the community! To contribute:
 4. Push to your branch (`git push origin feature/your-feature`).
 5. Open a pull request with a clear description of your changes.
 
-Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) and check the [issue tracker](https://github.com/your-username/chatapp/issues) for open tasks.
+Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) and check the [issue tracker](https://github.com/Edmon02/chatapp/issues) for open tasks.
 
 ## Contact
 
