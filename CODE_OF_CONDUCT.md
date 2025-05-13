@@ -34,7 +34,7 @@ This Code of Conduct applies within all project spaces, including GitHub reposit
 
 ## Reporting Issues
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [your-email@example.com](mailto:your-email@example.com). All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [edmon.sahakyan@gmail.com](mailto:edmon.sahakyan@gmail.com). All complaints will be reviewed and investigated promptly and fairly.
 
 All community members are obligated to respect the privacy and security of the reporter of any incident.
 
@@ -51,5 +51,5 @@ Maintainers will follow a transparent and fair process when enforcing this Code 
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
 
-For questions or suggestions about this Code of Conduct, please contact [your-email@example.com](mailto:your-email@example.com).
+For questions or suggestions about this Code of Conduct, please contact [edmon.sahakyan@gmail.com](mailto:edmon.sahakyan@gmail.com).
 
